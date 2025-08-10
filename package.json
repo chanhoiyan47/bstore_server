@@ -9,6 +9,7 @@
     "author": "Your Name",
     "license": "ISC",
     "dependencies": {
+        "@netlify/blobs": "^10.0.8",
         "cloudinary": "^1.41.3",
         "cors": "^2.8.5",
         "dotenv": "^17.2.1",
