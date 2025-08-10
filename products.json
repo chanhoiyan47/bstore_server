@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1754647729209,
+    "name": "WhiteTallJeans",
+    "price": "299",
+    "description": "Good ",
+    "imageUrl": "https://res.cloudinary.com/dirpvyea9/image/upload/v1754647728/bstore_products/1754647727956.jpg",
+    "cloudinaryId": "bstore_products/1754647727956"
+  },
+  {
+    "id": 1754647752021,
+    "name": "GreyJeans",
+    "price": "399",
+    "description": "Grey Jeans with NotBad design",
+    "imageUrl": "https://res.cloudinary.com/dirpvyea9/image/upload/v1754647751/bstore_products/1754647750662.jpg",
+    "cloudinaryId": "bstore_products/1754647750662"
+  },
+  {
+    "id": 1754647777801,
+    "name": "PinkDress",
+    "price": "1099",
+    "description": "Awesome!",
+    "imageUrl": "https://res.cloudinary.com/dirpvyea9/image/upload/v1754647777/bstore_products/1754647776477.jpg",
+    "cloudinaryId": "bstore_products/1754647776477"
+  },
+  {
+    "id": 1754650301392,
+    "name": "RedHoodle",
+    "price": "758",
+    "description": "Cool",
+    "imageUrl": "https://res.cloudinary.com/dirpvyea9/image/upload/v1754650300/bstore_products/1754650300115.jpg",
+    "cloudinaryId": "bstore_products/1754650300115"
+  },
+  {
+    "id": 1754803195535,
+    "name": "Delaynomore",
+    "price": "999",
+    "description": "???",
+    "imageUrl": "https://res.cloudinary.com/dirpvyea9/image/upload/v1754803195/bstore_products/1754803194101.jpg",
+    "cloudinaryId": "bstore_products/1754803194101"
+  }
+]
